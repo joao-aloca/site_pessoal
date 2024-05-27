@@ -141,14 +141,19 @@ footer {
     font-family: "Montserrat", sans-serif;
 }
 
-.curriculo__destaque {
+.destaque {
     color: #22D4FD;
 }
 
-.curriculo__cursos__link {
-    color: #22D4FD;
+.curriculo__lista {
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
 }
 
-.curriculo__cursos__link:hover {
-    color: #b8ffffd5;
+.curriculo__cursos__lista__link {
+    color: white;
+}
+
+.curriculo__cursos__lista__link:hover {
+    color: #22D4FD;
 }
